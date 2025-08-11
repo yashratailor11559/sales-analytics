@@ -1,0 +1,15 @@
+﻿# Python
+venv/
+__pycache__/
+*.pyc
+# Jupyter
+.ipynb_checkpoints
+# Data
+data/raw/*
+# OS
+Thumbs.db
+.DS_Store
+
+# Optional: if your pbix is very large, ignore it and host externally
+# powerbi/*.pbix
+
