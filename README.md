@@ -1,9 +1,10 @@
 ﻿# Sales Analytics Internship Project
+This project analyzes a sample sales dataset using Python (pandas, matplotlib, seaborn) and produces an interactive Power BI dashboard. This repo contains the full analysis notebook, cleaned data, and exported visuals.
 
 **Author**: Yashra Tailor
 
 ## Overview
-Analysis and dashboard using Python (pandas, matplotlib) + Power BI.This project analyzes a sample sales dataset using Python (pandas, matplotlib, seaborn) and produces an interactive Power BI dashboard. This repo contains the full analysis notebook, cleaned data, and exported visuals.
+Analysis and dashboard using Python (pandas, matplotlib) + Power BI.
 
 ## Files
 - 'data/cleaned/' — cleaned CSV
