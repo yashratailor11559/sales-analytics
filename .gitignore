@@ -13,3 +13,11 @@ Thumbs.db
 # Optional: if your pbix is very large, ignore it and host externally
 # powerbi/*.pbix
 
+venv/
+__pycache__/
+.ipynb_checkpoints
+data/raw/
+*.pyc
+Thumbs.db
+.DS_Store
+
